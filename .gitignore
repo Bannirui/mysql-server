@@ -27,3 +27,5 @@ heatwaveml.*
 automl.egg-info/
 _userconf.sh
 scalability_jobs_*
+
+build-out
